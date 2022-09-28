@@ -2,9 +2,11 @@ import Grid from "./components/Grid";
 
 function App() {
   return (
-    <div>
-      <Grid />
-    </div>
+    <main>
+      <div>
+        <Grid />
+      </div>
+    </main>
   );
 }
 
